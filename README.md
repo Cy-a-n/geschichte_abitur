@@ -261,7 +261,22 @@
 | 23.8.1939    | Nicht-Angriffspakt mit der Sowjetunion       | Strategie       | Nicht-Angriffspakt mit der Sowjetunion mit geheim geregelter Aufteilung von Polen, auch Molotow-Ribbentrop und Hitler-Stalin-Pakt genannt, welcher später gebrochen werden sollte                                                     |
 | 1.9.1939     | Ausbruch des zweiten Weltkrieges             | Expansionismus  | Ausbruch des zweiten Weltkrieges, deutsche Kriegserklärung gegen Polen                                                                                                                                                                |
 
-### Gruende zum Aufstieg Hitlers:
+### Gründe zum Aufstieg Hitlers:
 
-- TODO!
+- Vertrag von Versailles
+- Wirtschaftskrise
+- Schwäche der Weimarer Republik
+- Propaganda
+- Nationalsozialistische Ideologie
+- Unterstützung durch konservative Eliten
+- Antikommunismus
+- Einsatz von SA und SS
+- Charismatische Redekunst Hitlers
+- Fehler der politischen Gegner
+- Ermordung politischer Gegner
+- Notverordnungsgesetze
+- Hindenburg
 - Franz von Papen
+- Reichstagsbrand
+- Unterstützung durch Industrie und Wirtschaft
+- Sozialer Unmut und Arbeitslosigkeit
