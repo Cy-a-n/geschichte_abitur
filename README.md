@@ -226,8 +226,6 @@
 
 ## Nationalsozialismus
 
-### Zeitstrahl
-
 | Datum        | Name                                         | Stichwörter     | Beschreibung                                                                                                                                                                                                                          |
 | ------------ | -------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 30.1.1933    | Ernennung Hitlers zum Reichskanzler          | Machtergreifung | Hitler wird zum Reichskanzler ernannt                                                                                                                                                                                                 |
@@ -280,3 +278,79 @@
 - Reichstagsbrand
 - Unterstützung durch Industrie und Wirtschaft
 - Sozialer Unmut und Arbeitslosigkeit
+
+## Kalter Krieg
+
+| Datum | Name                                    | Stichwörter       | Beschreibung                                                                                                                                                                                        |
+| ----- | --------------------------------------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1947  | Marshallplan                            | Wiederaufbau      | Deutschland erhielt ca. 1,4 Milliarden USD (ohne Berücksichtigung der Inflation) zur Wiederherstellung und Modernisierung seiner Produktionsstrukturen nach dem Zweiten Weltkrieg.                  |
+| 1948  | Währungsreform                          | Wiederaufbau      | Einführung der Deutschen Mark (DM) als neue Währung, um die Wirtschaft zu stabilisieren und die Inflation zu bekämpfen.                                                                             |
+| 1949  | Gründung der BRD                        | Gründung der BRD  | Die Bundesrepublik Deutschland (BRD) wurde gegründet, basierend auf einer parlamentarischen Demokratie mit Gewaltenteilung, wirtschaftlicher Freiheit und garantierten Grundrechten.                |
+| 1949  | Gründung der DDR, erste Parteikonferenz | Gründung der DDR  | Die Deutsche Demokratische Republik (DDR) wurde gegründet, basierend auf einer sozialistischen Einparteienherrschaft der SED, mit Planwirtschaft und eingeschränkten, oft gebrochenen Grundrechten. |
+| 1949  | Besatzungsstatut                        | Westintegration   | Das Besatzungsstatut wurde erlassen, welches mehr Souveränität für die westlichen Besatzungsmächte und die Westintegration Deutschlands ermöglichte.                                                |
+| 1949  | Wahl Konrad Adenauers                   | Gründung der BRD  | Konrad Adenauer wurde zum ersten Bundeskanzler der BRD gewählt, was den Kurs der Westintegration Deutschlands weiter festigte.                                                                      |
+| 1949  | OEEC-Beitritt                           | Westintegration   | Deutschland trat der Organisation for European Economic Cooperation (OEEC) bei, um die wirtschaftliche Zusammenarbeit in Europa zu fördern.                                                         |
+| 1950  | Europarat-Beitritt                      | Westintegration   | Deutschland trat dem Europarat bei, einer Organisation zur Förderung von Demokratie und Menschenrechten in Europa.                                                                                  |
+| 1950  | EVG-Beitrag                             | Westintegration   | Deutschland sagte seinen Beitrag zu einer Europäischen Verteidigungsgemeinschaft (EVG) zu, auf Bitten der USA zur Remilitarisierung Deutschlands.                                                   |
+| 1951  | Erster Fünf-Jahres-Plan                 | Gründung der DDR  | Fokus auf Schwerindustrie, Vernachlässigung von Konsumgütern, Wohnungsbau und Dienstleistungen.                                                                                                     |
+| 1952  | Zweite Parteikonferenz                  | Gründung der DDR  | Aufbau des Sozialismus, Gründung von Volkseigenen Betrieben.                                                                                                                                        |
+| 1952  | Aufnahme in EGKS                        | Westintegration   | Deutschland trat der Europäischen Gemeinschaft für Kohle und Stahl (EGKS) bei, was den europäischen Integrationsprozess weiter vorantrieb.                                                          |
+| 1952  | Stalinnote                              | Wiedervereinigung | Vorschlag Stalins, Deutschland als neutralen Staat zu vereinigen, der von westlichen Politikern abgelehnt wurde und hauptsächlich als Propaganda diente, um die Westintegration zu stören.          |
+| 1953  | Höhepunkt Flüchtlingswelle              | Flüchtlinge       |                                                                                                                                                                                                     |
+| 1953  | Tag der Deutschen Einheit               | Wiedervereinigung | Es kam zu Protesten in der DDR gegen die Regierung, schlechte Lebensbedingungen und für die Wiedervereinigung. Diese wurden von der Sowjetischen Armee blutig niedergeschlagen.                     |
+| 1955  | NATO-Beitritt                           | Westintegration   | Deutschland trat der NATO bei und erlangte durch den Generalvertrag seine volle Souveränität zurück.                                                                                                |
+| 1955  | Warschauer Pakt-Beitritt                | Ostintegration    | Als Reaktion auf den NATO-Beitritt der BRD trat die DDR dem Warschauer Pakt bei, was ihre Ostintegration abschloss.                                                                                 |
+| 1956  | Gründung der Volksarmee                 | Ostintegration    | Die DDR gründete die Nationale Volksarmee, was die vollständige Ostintegration abschloss.                                                                                                           |
+| 1956  | Lokaler Höhepunkt Flüchtlingswelle      | Flüchtlinge       |                                                                                                                                                                                                     |
+| 1961  | Bau der Berliner Mauer                  | Flüchtlinge       | Der Bau der Berliner Mauer begann, offiziell als "antifaschistischer Schutzwall" bezeichnet, um den Flüchtlingsstrom aus der DDR nach Westberlin zu stoppen.                                        |
+| 1962  | Abrupter Rückgang von Flüchtenden       | Flüchtlinge       |                                                                                                                                                                                                     |
+| 1963  | Elysée-Vertrag                          | Westintegration   | Der Elysée-Vertrag zwischen Deutschland und Frankreich wurde unterzeichnet, was die deutsch-französische Freundschaft und Zusammenarbeit stärkte.                                                   |
+| 1989  | Mauerfall                               |                   |                                                                                                                                                                                                     |
+| 1990  | Wiedervereinigung                       |                   |                                                                                                                                                                                                     |
+
+### Notizen
+
+#### Grundgesetze
+
+- Parlamentarische Demokratie
+- Gewaltenteilung und gegenseitige Kontrolle der Staatsorgane
+- Kombiniertes Verhältnis- und Mehrheitswahlrecht
+- Gleiches, geheimes und freies Wahlrecht
+- Parteienpluralismus
+- Föderalismus
+- Schutz des Privateigentums
+- Wirtschaftsfreiheit
+- Grundrechte werden geachtet
+
+**DDR:**
+
+- Einparteiendiktatur
+- Keine Gewaltenteilung; die Volkskammer, und damit die SED, hat die Kontrolle über Exekutive, Judikative und Legislative. Sie kann die Richter absetzen.
+- Verhältniswahlrecht im Sinne von Einheitslisten, man konnte nur einer Einheitsliste aus festgelegten Ministern für die Regierung zustimmen oder sie ablehnen.
+- Gleiches, geheimes und freies Wahlrecht, jedoch nur der Verfassung nach, man wurde bevorteilt, wenn man zur Wahl erschien, das Wahlkabinett nicht benutzte und der Liste zustimmte.
+- Blocksystem unter Führung der SED, die meisten Parteien wurden in den "antifaschistischen, demokratischen Block" zwanghaft eingegliedert.
+- Föderalismus durch die Länderkammer, 1952 abgeschafft
+- Volkseigentum statt Privateigentum, was Enteignungen, Verstaatlichung, Bodenreformen und Kollektivierungsmaßnahmen bedeutete
+- Staatlich kontrollierte Planwirtschaft
+- Grundrechte vorhanden, wurden jedoch missachtet
+- SPD und KPD wurden in der DDR zur SED zwangsvereinigt.
+- Alle Parteien waren letztlich von der SED kontrolliert.
+- Es wurden noch rund 20 % auf die Wahlergebnisse manipulativ hinzugefügt.
+
+#### Flüchtlinge von der DDR zur Bundesrepublik
+
+- Besonders hoher Anteil der Bevölkerung zwischen 16 und 45 Jahren, was wirtschaftlich extrem belastend ist.
+- Ruheständler hatten aus finanziellen Gründen auch nach 1961 legitime Ausreisemöglichkeiten.
+
+## Frauen in der Bundesrepublik
+
+- Rückkehr des „bürgerlichen Familienmodells“ nach der „ungewollten“ Emanzipation in der Kriegs- und Nachkriegszeit
+    - Die Frau als Gattin, Mutter und Hausfrau
+    - Der Mann als Ernährer
+    - Glaube an die natürliche Wesensverschiedenheit der Geschlechter
+- Gleichberechtigung nach Grundgesetz, aber bis 1976 laut Familienrecht (BGB)
+    - Nur die Ehefrau zur Haushaltsführung verpflichtet
+    - Frauen hatten ohne die Erlaubnis des Mannes kein Recht auf außerhäusliche Berufstätigkeit
+    - Der Name des Mannes war Ehe- und Familienname
+    - Ein Stichentscheid zugunsten der Männer galt, wenn sich die Ehepartner in Haushalts- und Erziehungsfragen nicht einigen konnten
+- Frauen waren in höheren Schulen, Universitäten, Politik und im Erwerbsleben unterrepräsentiert und wurden schlechter entlohnt als Männer.
