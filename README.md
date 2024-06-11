@@ -95,6 +95,10 @@
 - Der preussische König war Wilhelm der I.
 - Das neu gegründete Reich wird auch als Obrigkeitsstaat bezeichnet mit Kaiser und Reichskanzler im Mittelpunkt. Demokratische Elemente wurden durch den schwachen Reichstag repräsentiert.
 
+#### Verfassung Kaiserreich
+
+![](verfassung_kaiserreich.jpg)
+
 ## Das Kaiserreich unter Bismarck
 
 ### Zeitstrahl
@@ -211,9 +215,6 @@
 
 ### Notizen
 
-- **Weimarer Verfassung**
-  - Die Weimarer Verfassung, verabschiedet 1919, schuf die erste deutsche Demokratie und führte ein parlamentarisches System mit einem starken Präsidenten ein. Sie beinhaltete progressive Elemente wie das allgemeine Wahlrecht, aber auch problematische Klauseln wie Artikel 48, der dem Präsidenten Notverordnungsrechte einräumte. Der Praesident wird auch als Ersatzkaiser bezeichnet.
-
 - **Aufgrund der Wirtschaftskrisen unterstützte die USA zunehmend Deutschland bezüglich den Reparationszahlungen**
   - In den 1920er Jahren halfen die USA Deutschland mit dem Dawes-Plan (1924) und dem Young-Plan (1929), etc., um die wirtschaftliche Last der Reparationszahlungen zu mindern und die deutsche Wirtschaft zu stabilisieren.
 
@@ -223,6 +224,10 @@
 - **Paramilitärische Gruppen**
   - Nach dem Ersten Weltkrieg bildeten sich viele paramilitärische Gruppen, wie die Freikorps, SA (Sturmabteilung) der NSDAP und der Rotfrontkämpferbund der KPD.
   - Die Reichswehr war durch den Vertrag von Versailles stark eingeschränkt und oft schwächer als diese paramilitärischen Gruppen, die eine bedeutende Rolle in der politischen Gewalt und Instabilität der Weimarer Republik spielten.
+
+#### Verfassung
+
+![](verfassung_weimarer_republik.jpg)
 
 ## Nationalsozialismus
 
